@@ -20,6 +20,9 @@
 
 - Guitar
 - Video Games
+    * Dark Souls
+    * Osu
+    * Minecraft
 - Listen to music
 
 ## You can always count on me when...
