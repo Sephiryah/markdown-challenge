@@ -2,7 +2,7 @@
 
 *If anyone asks where I am, I've left the country* - Mike Wheeler **Stranger Things**
 
-![Photo of me](/Pictures/me.jpg)
+![Photo of me](./Me(2).jpg)
 
 ## I'm just a gamer that love to code and help other.
 
